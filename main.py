@@ -27,16 +27,13 @@ def qadloop():
     else:
         pass
 
-def askq():
-    pass
-
 def addqlist1():
-    if input("do you want to add default question list 1? ") == "y"
-    questions.append(qlist1)
+    if input("do you want to add default question list 1? ") == "y":
+        questions.append(qlist1)
 
 def addqlist2():
-    if input("do you want to add default question list 2? ") == "y"
-    questions.append(qlist2)
+    if input("do you want to add default question list 2? ") == "y":
+        questions.append(qlist2)
 
 def ans():
     n = len(questions)
