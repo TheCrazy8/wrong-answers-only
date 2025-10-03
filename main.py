@@ -14,7 +14,7 @@ qlist2 = ["What does the word \"Desert\" translate as from Latin?",
 "what is 1+1?",
 "how much wood could a wood chuck chuck if a wood chuck could chuck wood?",
 "how old is Benjamin Green?",
-""]
+"What are the seven deadly sins?"]
 
 def addq():
     q = input("What question would you like to add? ")
