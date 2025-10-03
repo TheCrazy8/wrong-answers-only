@@ -18,6 +18,7 @@ def askq():
 
 def main():
     addq()
+    addqlist1()
     
 if __name__ == '__main__':
     main()
